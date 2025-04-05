@@ -9,13 +9,14 @@
   "categories": [
     "Themes"
   ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "MyTheme",
-        "uiTheme": "hc-black",
-        "path": "./themes/MyTheme-color-theme.json"
-      }
-    ]
-  }
+"contributes": {
+  "themes": [
+    {
+      "label": "My Subtle Theme",
+      "uiTheme": "vs-dark",
+      "path": "./themes/MySubtleTheme.json"
+    }
+  ]
+}
+
 }
