@@ -14,9 +14,10 @@
     {
       "label": "My Subtle Theme",
       "uiTheme": "vs-dark",
-      "path": "./themes/MySubtleTheme.json"
+      "path": "./themes/MyTheme-color-theme.json"
     }
   ]
 }
+
 
 }
